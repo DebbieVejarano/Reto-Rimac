@@ -1,5 +1,7 @@
 # Reto-Rimac
 
+## Demo en [figma](https://www.figma.com/proto/TT7ETbj6vVdlEVOEB4UgcXDJ/R%C3%ADmac-mobile?node-id=0%3A1&scaling=scale-down)
+
 ## Journey map
 ![](https://fotos.subefotos.com/b7073006ef79dcc4a65b05a70e538ebbo.jpg)
 
